@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Aw_LifeCounter_AppTeste</string>
+    <string name="dicaPontosDeVida">Pontos de Vida do Jogador</string>
+    <string name="texto_cadastro"> Crie uma conta clicando aqui</string>
+    <string name="botao_entrar">Entrar</string>
+</resources>

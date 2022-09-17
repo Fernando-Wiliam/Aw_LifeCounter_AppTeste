@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="AW_Deep_Blue">#0f101b </color>
+    <color name="AW_Deep_Deep_Blue">#0A0B16</color>
+    <color name="AW_Light_Gray_1" >#DBDEFF</color>
+    <color name="AW_Mag">#d10046</color>
+    <color name="AW_Red_1">#b03634</color>
+    <color name="AW_Red_2">#a84434</color>
+    <color name="AW_Orange">#f2a32f</color>
+    <color name="AW_Yellow">#f2d700</color>
+    <color name="AW_Blue_1">#286ad1</color>
+    <color name="AW_Blue_2">#2844bc</color>
+    <color name="AW_Blue_3">#282c89</color>
+</resources>
